@@ -14,8 +14,8 @@
 
 1. **Clone Repository**
    ```sh
-   git clone ------
-   cd Spotify-Downloader
+   git clone [------](https://github.com/affndiangrh/Spotify-downloader.git)
+   cd Spotify-downloader
    ```
 2. **Install Dependencies**
    ```sh
